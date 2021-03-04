@@ -94,7 +94,7 @@ a.active {
 .photo {
     width: 100%;
     height: 415px;
-    background: url('../images/header-photo.jpg') no-repeat center;
+    background: url('../images/program.jpg') no-repeat center;
     background-size: cover;
 }
 
@@ -219,15 +219,15 @@ h3 {
 }
 
 .case01 {
-    background: url('../images/pf01.jpg')
+    background: url('../images/pro01.jpg')
 }
 
 .case02 {
-    background: url('../images/pf02.jpg')
+    background: url('../images/prog01.jpg')
 }
 
 .case03 {
-    background: url('../images/pf03.jpg')
+    background: url('../images/prog02.jpg')
 }
 
 .case {
@@ -240,7 +240,7 @@ h4 {
     line-height: 25px;
     letter-spacing: 0.1em;
     text-decoration-line: underline;
-    color: turquoise;
+    color: red;
     margin-top: 50px;
     margin-bottom: 0px;
 }
